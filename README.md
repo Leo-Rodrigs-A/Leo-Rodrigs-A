@@ -1,4 +1,12 @@
-## Hi there 👋
+## Tudo certo? 👋
+![oi](https://github.com/user-attachments/assets/59e04909-96f3-4c8e-8099-e78cb255ec02)
+
+## sobre mim:
+
+Sou estudante de programação focado em web, atualmente aprendendo sobre tecnologias utilizadas no backend, tenho alguns projetos pessoais exposto aqui no meu perfil, aqui estão meus conhecimentos e ferramentas que estou me especializando no momento.
+
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 <!--
 **Leo-Rodrigs-A/Leo-Rodrigs-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
